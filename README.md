@@ -1,11 +1,21 @@
-## Hi there 👋
+## I'm a Python developer building expertise in backend engineering and AI integration. I'm actively learning how to combine Flask/Django with modern AI/LLM technologies to build intelligent applications.
 
+## 📂 Python Fundamentals
+My foundation projects from the Angela Yu course—games, CLI tools, and core Python concepts:
+
+Games: Pong, Hangman, Higher/Lower, etc.
+Scripts: Password managers, data processing, automation
+Concepts: OOP, file handling, APIs, data structures
+
+Note: Not all projects included here, but core ones showcase progression.
+Browse the repo to see the full journey.
 <!--
 **KzrDev10/KzrDev10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
